@@ -1,0 +1,54 @@
+
+.login {
+    background-color: black;
+    background-image: url("../img/barzinho_background.jpg");
+   
+    background-size: 115%;
+    color:#ffffff;
+}
+.pag {
+    background-color: black;
+    background-image: url("../img/bem_vindo.jpg");
+    
+    background-size: 150%;
+    background-repeat: no-repeat;
+    color: #ffffff;
+}
+.lista_text {
+    background-color: rgba(255,255,255,.5);
+    color: black;
+}
+table {
+     background-color: #ffffff;
+     background-image: none;
+     color: black;
+}
+a {
+   text-decoration: none;
+   color: black;
+}
+
+
+#form-login {
+    padding: 5px;
+    margin: 10%;
+    text-align: center;
+}
+
+input[type=submit] {
+    
+    width: 120px;
+    padding: 5px 0px 5px 0px;
+    font-size: 18pt;
+    cursor: pointer;
+    border-radius: 18px;
+}
+
+.fields {
+    width: 200px;
+    font-size: 16px;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px;
+    box-shadow: 3px 3px 3px black;
+}
